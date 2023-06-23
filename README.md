@@ -11,3 +11,4 @@ Passos:
 3. Selecionar a opção File > Open.
 4. Selecionar o arquivo (um dos baixados no passo 1).
 5. Executar o teste no botão "play", na barra superior da tela.
+6. Abrir o relatório de execução contido na pasta reports/
